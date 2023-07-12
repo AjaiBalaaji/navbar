@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://i2.wp.com/salienthealthcare.com/wp-content/uploads/2020/03/AdobeStock_133621255-scaled.jpeg?fit=2560%2C1440&ssl=1);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.slider
+{
+    padding-left: 20px;
+    margin-right: 200px;
+}
+.container {
+    background-image: url("path/to/your/image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .head
+  {
+    background-color: aliceblue;
+  }
+  
+  
